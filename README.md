@@ -122,16 +122,20 @@
     </tr>
     <tr>
         <td align="center">
-        <sub><b>원티드 크롤링</b></sub>
+        <sub><b>프로젝트 구조 및 아키텍처 도입</b></sub><br>
+        <sub><b>원티드 크롤링 배치 스케줄러 구현</b></sub>
         </td>
         <td align="center">
-        <sub><b>커피챗 서비스</b></sub>
+        <sub><b>커피챗 서비스 구현</b></sub><br>
+        <sub><b>모니터링 환경 구축</b></sub>
         </td>
         <td align="center">
-        <sub><b>인프런 크롤링</b></sub>
+        <sub><b>인프런 크롤링 배치 스케줄러 구현</b></sub><br>
+        <sub><b>검색 캐싱 구현</b></sub>
         </td>
         <td align="center">
-        <sub><b>로그인 서비스</b></sub>
+        <sub><b>로그인 서비스</b></sub><br>
+        <sub><b>CI/CD 파이프라인 구축</b></sub>
         </td>
     </tr>
   </tbody>
